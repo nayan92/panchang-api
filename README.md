@@ -1,1 +1,1 @@
-# panchang-java
+# panchang-api
