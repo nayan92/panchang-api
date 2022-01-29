@@ -13,7 +13,6 @@ Githubs:
 - [Python panchang generator](https://github.com/karthikraman/panchangam)
 - [Computing panchang with python (drik-panchanga-skaligotla)](https://github.com/rahulyhg/drik-panchanga-skaligotla)
 - [Another computing panchang with python (drik-panchanga)](https://github.com/webresh/drik-panchanga)
-- 
 
 Other websites:
 - [DrikPanchang, the OG of panchang stuff](https://www.drikpanchang.com)
@@ -32,4 +31,3 @@ Vivah Muhurat:
 - [AstroSage explaining how to calculate muhurat](https://www.astrosage.com/muhurat/)
 - [aadishakti explaining muhurat filters/calculations](https://aadishakti.co/how-hindu-marriage-dates-are-calculated/)
 - [2023 muhurat by Hindu Sphere](http://hindusphere.com/hindu-marriage-dates-2023-auspicious-hindu-wedding-dates-2023/)
-- 
